@@ -1,0 +1,21 @@
+{
+  "title": "Tower of God - A Ascensão de Urek Mazzino",
+  "description": "Um manga incrível descoberto na sua biblioteca. Explore os capítulos disponíveis e aproveite a leitura!",
+  "artist": "Artista Original",
+  "author": "Autor Original",
+  "cover": "https://placehold.co/200x300/1f2937/9ca3af?text=Tower%20of%20G",
+  "status": "Em Andamento",
+  "group": "Grupo Original",
+  "chapters": {
+    "001": {
+      "title": "Capítulo 1",
+      "last_updated": "2023-01-01",
+      "groups": {
+        "Scan Group": [
+          "https://img1.jpg",
+          "https://img2.jpg"
+        ]
+      }
+    }
+  }
+}

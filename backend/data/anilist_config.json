@@ -1,0 +1,10 @@
+{
+  "enabled": true,
+  "language_preference": "synonyms",
+  "fill_mode": "manual",
+  "auto_search": true,
+  "cache_enabled": true,
+  "prefer_anilist": false,
+  "version": "1.0",
+  "last_updated": "1757116122"
+}
