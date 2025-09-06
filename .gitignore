@@ -50,3 +50,4 @@ server.log
 # Ignore test folders
 /backend/test/
 /test/
+frontend.git.backup/
